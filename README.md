@@ -1,5 +1,5 @@
 
-# Rosa-Client: Smart REST client for PHP
+# ROSA-Client: Smart REST client for PHP
 
 ## Introduction
 
